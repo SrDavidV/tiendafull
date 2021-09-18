@@ -11,7 +11,7 @@
 	<h1>Tienda Generica</h1>
 <ul>
 	<li><a href="pag3.jsp">Usuarios</a></li>
-	<li><a href="#Clientes">Clientes</a></li>
+	<li><a href="pag4.jsp">Clientes</a></li>
 	<li><a href="#Proveedores">Proveedores</a></li>
 	<li><a href="#Productos">Productos</a></li>
 	<li><a href="#Ventas">Ventas</a></li>
